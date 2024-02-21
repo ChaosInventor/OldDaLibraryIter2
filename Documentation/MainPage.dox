@@ -1,0 +1,50 @@
+/** @file MainPage.dox
+ * @brief Customizes the main page of the doxygen documentation
+ * 
+ */
+
+/** @mainpage
+ * 
+ * The Library is a general purpose library for C++. It defines data strucutres,
+ * platfrom abstractions and the means to access and manipulate them.
+ * 
+ * @section MainScope Scope of this documentation
+ * The scope of this documentation is to:
+ * - Show how to use The Library.
+ * - Show how The Library works.
+ * - Show and explain the concepts used in The Library.
+ * 
+ * This documentation does not:
+ * - Show why The Library works.
+ * - Show why The Library is designed the way it is
+ * - Explain the underlying proccesses that The Library uses to function.
+ * 
+ * This documentation also assumes the following:
+ * - The reader is well aquatinted with C++ and the APIs of the platforms that
+ * The Library is implemented for.
+ * 
+ * 
+ * @section MainGoals Goals of The Library
+ * The library tries to accomplish the follow goals, sorted in order of
+ * priority, from highest to lowest:
+ * - **Flexibility**, The Library tries to be as flexable as possible, often at
+ * the cost of safety (You should note that The Library still has ways to
+ * achieve safety at the cost of flexibility).
+ * - **Modularity**, The Library tries to split its functionality as into
+ * multiple modules. Each module is tasked with doing one very specific thing.
+ * Modules are also grouped together to form module groups. Module groups are
+ * also grouped together.
+ * - **Readability**, The Library tries to be as readable as possible in terms
+ * of its source code. It tries to achieve this by having rigours naming and
+ * organization rules.
+ * - **Performance**, The Library tries to be as performant as possible, but not at
+ * the cost of the other goals.
+ * 
+ * 
+ * //TODO: Add a section about the organization of the library.
+ * 
+ * //TODO: Add a section about building the library and getting the source code.
+ * 
+ * //TODO: Add a section about The Library's licence
+ * 
+ */

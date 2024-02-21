@@ -1,0 +1,7 @@
+#ifndef MEMORY_MANAGER__MEMORY_MANAGER_MEMORY_MANAGER_HPP
+#define MEMORY_MANAGER__MEMORY_MANAGER_MEMORY_MANAGER_HPP
+
+#include "MemoryManagerDeclaration.hpp"
+#include "MemoryManagerDefinition.hpp"
+
+#endif //MEMORY_MANAGER__MEMORY_MANAGER_MEMORY_MANAGER_HPP

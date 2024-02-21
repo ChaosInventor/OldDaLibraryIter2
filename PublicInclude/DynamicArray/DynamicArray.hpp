@@ -1,0 +1,7 @@
+#ifndef DYNAMIC_ARRAY__DYNAMIC_ARRAY_DYNAMIC_ARRAY_HPP
+#define DYNAMIC_ARRAY__DYNAMIC_ARRAY_DYNAMIC_ARRAY_HPP
+
+#include "DynamicArrayDeclaration.hpp"
+#include "DynamicArrayDefinition.hpp"
+
+#endif //DYNAMIC_ARRAY__DYNAMIC_ARRAY_DYNAMIC_ARRAY_HPP

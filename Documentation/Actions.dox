@@ -1,0 +1,39 @@
+/**
+ *
+ * A list of function actions:
+ * //TODO: What is a resource?
+ * //TODO: What is a structure?
+ * - Allocate - reserves a resource
+ * - Create - initializes a structure using a resource
+ * 
+ * - Find - searches for something in a resource or a resource it's self.
+ * - Get - gives the location of a resource without searching for it
+ * - Validate - //TODO: This may need to be a new action.
+ * 
+ * - Insert - combies existant resources without overwriting anything
+ * - Write - overwrites apart of an existant resource
+ * - Add - creates and combines resources
+ * 
+ * - Extract - splits apart existant resources without destroying them
+ * - Read - //TODO: what does read do? Something like moving resources
+ * - Remove - destroys and splits resources
+ * 
+ * - Set - mutates a resource in some way
+ * 
+ * - Re - redoes something
+ * 
+ * - Destroy - deinitialize a structure back to a resource
+ * - Deallocate - unreserves a resource
+ * 
+ * - Advance - //TODO: Is this a good idea?
+ * - Retreat - //TODO: Is this a good idea?
+ * 
+ */
+
+//TODO: The logical functions that make a claim
+
+//TODO: How are actions sorted in a file?
+
+//At when refering to an argument in a function name means that said argument
+//must be a non const reference of the type that is written in the function
+//name 
