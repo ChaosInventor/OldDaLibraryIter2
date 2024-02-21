@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Documentation build
+Documentation/html/
+Documentation/latex/
+Documentation/xml/
+Documentation/_build/
